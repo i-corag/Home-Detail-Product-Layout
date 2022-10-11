@@ -1,0 +1,16 @@
+
+footer nav {
+    background-color: var(--first-color);
+    padding: 16px 32px;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;  
+}
+.navegadorFooter , .navegadorFooter a {
+    padding: 4px;
+    text-decoration: none;
+    color: var(--second-color);
+    font-weight: normal;
+      
+} 

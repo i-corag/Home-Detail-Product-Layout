@@ -1,0 +1,22 @@
+
+.Banner {
+    padding: 32px 48px;
+    margin: 32px 32px;
+    height: 40vh;
+       
+    background-image: url("https://images.unsplash.com/photo-1584801096196-592feb269e31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ym9va3N0b3JlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60");
+    background-position: center;
+    background-size: cover;
+ 
+    border-radius: 8px;   
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Banner h1{
+    color: var(--second-color);
+    opacity: 1;
+    font-size: 800%;
+}

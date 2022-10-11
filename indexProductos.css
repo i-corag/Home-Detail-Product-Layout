@@ -1,0 +1,47 @@
+#Productos {
+    margin: 16px 32px;
+    padding: 16px 32px;
+}
+
+#Productos h2 {
+    text-align: center;
+}
+
+#Productos div ul {
+    padding: 16px 32px;
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+}
+
+
+#Productos div ul li {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#Productos div ul li h3 {
+    padding: 16px;
+    font-weight: normal;   
+}
+
+#Productos div ul li a {
+    padding: 8px 10px;
+    background-color: var(--second-color);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--first-color);
+    
+
+
+
+}
+
+
+
+
+
+
+

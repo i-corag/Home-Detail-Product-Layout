@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding:0;
+}
+
+:root {
+    --first-color: #F9F6E7;
+    --second-color: #96c7c1;
+    --third-color: #df7861;
+    --fourth-color: #5d4b40;
+}
+
+body {
+    font-family: 'Spectral Light',sans-serif;
+    width: calc (100vw - (100vw - 100%));
+}

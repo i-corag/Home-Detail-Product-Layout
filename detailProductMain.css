@@ -1,0 +1,58 @@
+
+.detalle {
+    margin: 32px 25vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#texto h2 {
+    padding: 16px 0px 8px;
+    color: var(--third-color);
+    font-size: 200%;
+    font-weight: bold;
+}
+
+#texto h4 {
+    padding: 0px 0px 8px;
+    color: var(--third-color);
+    font-weight: normal;
+}
+
+#texto p {
+    padding: 0px 0px 8px;
+    color: var(--fourth-color);
+    font-weight:lighter;
+}
+
+
+
+.comprar {
+    margin: 32px 35vw;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+#precio h3 {
+    padding: 16px 16px;
+    color: var(--third-color);
+    font-weight: bold;
+}
+
+#agregar {
+    padding: 16px 16px;
+    background-color: var(--first-color);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#agregar a {
+    color: var(--second-color);
+    text-decoration: none;
+    font-weight: bold;
+
+}
